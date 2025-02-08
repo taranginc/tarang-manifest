@@ -1,0 +1,20 @@
+{
+  "name": "Tarang Inc",
+  "short_name": "TarangInc",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff0000",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjos-7rZqtSJZMmmYQnftsh2zKy0CCf94a5JT-264Xt745jjICkeJUK1Jt-sdS-5P-GLbSGUjOLsNC5CzA3eOclgBqAoz77PQQxxfrEtUbtPCTuATeMfal_MAx_lCRBNXZNo3xeaKWyLX4/s192/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYsHsKBzxUBB0cs6Hma6BkdYxzEfAp6avq65tENZ6YxmvELyrpyjgCSRcwqVGl6PCmKFA2wB3p0-NyYqEWIT6zfl0xrQwe5C-zjasFT6dHm_KRZlAzB8c33_lfQF97yUP94_gyjw6xsEo/s512/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
